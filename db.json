@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "name": "Traci Crist",
+      "id": 2
+    },
+    {
+      "name": "Mr. Gregg Douglas IV",
+      "id": 3
+    },
+    {
+      "name": "Lynn Pollich",
+      "id": 4
+    },
+    {
+      "name": "Karen Bogan",
+      "id": 9
+    }
+  ],
+  "albums": [
+    {
+      "name": "Gorgeous Plastic Mouse",
+      "id": 5
+    },
+    {
+      "name": "Ergonomic Cotton Towels",
+      "id": 6
+    },
+    {
+      "name": "Licensed Metal Computer",
+      "id": 7
+    },
+    {
+      "name": "Elegant Cotton Sausages",
+      "id": 8
+    },
+    {
+      "name": "Intelligent Granite Pizza",
+      "id": 9
+    },
+    {
+      "name": "Tasty Rubber Table",
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "name": "Oriental Metal Gloves",
+      "id": 11
+    },
+    {
+      "userId": 4,
+      "name": "Tasty Rubber Tuna",
+      "id": 14
+    },
+    {
+      "userId": 4,
+      "name": "Practical Steel Gloves",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "name": "Handmade Rubber Salad",
+      "id": 18
+    },
+    {
+      "userId": 9,
+      "name": "Rustic Frozen Pants",
+      "id": 19
+    },
+    {
+      "userId": 9,
+      "name": "Practical Granite Computer",
+      "id": 20
+    },
+    {
+      "userId": 9,
+      "name": "Practical Rubber Pizza",
+      "id": 21
+    },
+    {
+      "userId": 9,
+      "name": "Recycled Rubber Gloves",
+      "id": 22
+    },
+    {
+      "userId": 9,
+      "name": "Ergonomic Soft Ball",
+      "id": 23
+    },
+    {
+      "userId": 3,
+      "name": "Practical Soft Keyboard",
+      "id": 24
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 18,
+      "name": "https://loremflickr.com/150/150?lock=5619115693703168",
+      "id": 2
+    },
+    {
+      "albumId": 14,
+      "name": "https://loremflickr.com/150/150?lock=4548222456430592",
+      "id": 5
+    },
+    {
+      "albumId": 11,
+      "name": "https://loremflickr.com/150/150?lock=3585806048428032",
+      "id": 6
+    },
+    {
+      "albumId": 11,
+      "name": "https://loremflickr.com/150/150?lock=2171923127599104",
+      "id": 7
+    }
+  ]
+}
